@@ -3,9 +3,7 @@
 
 <h3 align="center">
  🌱 I’m currently learning **front-end, database, networking**
-
  📫 How to reach me **ineedsleep911@gmail.com**
-
  ⚡ Fun fact **I Love Soccer**
 </h3>
 

@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 
 <h3 align="center">
-  - 🌱 I’m currently learning **front-end, database, networking**
+ 🌱 I’m currently learning **front-end, database, networking**
 
-- 📫 How to reach me **ineedsleep911@gmail.com**
+ 📫 How to reach me **ineedsleep911@gmail.com**
 
-- ⚡ Fun fact **I Love Soccer**
+ ⚡ Fun fact **I Love Soccer**
 </h3>
 
 <p align="center">

@@ -24,6 +24,5 @@
 
 <div style="text-align: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwu7-bot&show_icons=true&locale=en" alt="jwu7-bot" />
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwu7-bot&" alt="jwu7-bot" /></p>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwu7-bot&" alt="jwu7-bot" /></p>

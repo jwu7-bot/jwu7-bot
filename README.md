@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwu7-bot&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwu7-bot&show_icons=true&theme=radical)
 </p>
 
 

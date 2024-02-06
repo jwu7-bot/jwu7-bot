@@ -23,7 +23,7 @@
 </p>
 
 <div style="text-align: center;">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwu7-bot&show_icons=true&locale=en" alt="jwu7-bot" />
+          <img src="https://github-readme-stats.vercel.app/api?username=jwu7-bot&show_icons=true&locale=en" alt="jwu7-bot" />
 </div>
 
 

@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm JiaHui</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 🌱 I’m currently learning **front-end, database, networking**
+<h3 align="center">
+  - 🌱 I’m currently learning **front-end, database, networking**
 
 - 📫 How to reach me **ineedsleep911@gmail.com**
 
 - ⚡ Fun fact **I Love Soccer**
+</h3>
 
-<h3 align="center"></h3>
 <p align="center">
 </p>
 

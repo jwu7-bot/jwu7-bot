@@ -23,6 +23,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwu7-bot&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwu7-bot&layout=pie)](https://github.com/jwu7-bot/github-readme-stats)
 
 
 

@@ -23,8 +23,8 @@
 </p>
 
 <a href="https://github.com/jwu7-bot/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jwu7-bot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jwu7-bot&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/jwu7-bot/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwu7-bot&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jwu7-bot&repo=convoychat" />
 </a>

@@ -3,7 +3,7 @@
 
 <h3 align="center">
  <p>🌱 I’m currently learning **front-end, database, networking**</p>
- <p>📫 How to reach me **ineedsleep911@gmail.com**</p>
+ <p>📫 How to reach me **jiahuiwu007@gmail.com**</p>
  <p>⚡ Fun fact **I Love Soccer**</p>
 </h3>
 

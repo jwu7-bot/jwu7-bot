@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JiaHui</h1>
 
 <h3 align="center">
- <p>🌱 I’m currently learning: mobile development and full stack</p>
+ <p>🌱 I’m currently learning: Rust and Android Studio</p>
  <p>📫 How to reach me: wujiahui_1996@hotmail.com</p>
  <p>⚡ Fun fact I Love Soccer</p>
 </h3>

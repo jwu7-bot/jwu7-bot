@@ -65,5 +65,3 @@ I'm actively seeking internship opportunities! Let's connect and create somethin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jiahui4-wu)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](wujiahui_1996@hotmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/jwu7-bot)
-
-```ascii

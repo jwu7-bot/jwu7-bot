@@ -3,7 +3,7 @@
 <h3 align="center">
  <p>🌱 I’m currently learning: Ruby and Android Studio</p>
  <p>📫 How to reach me: wujiahui_1996@hotmail.com</p>
- <p>⚡ Fun fact I Love Soccer</p>
+ <p>⚡ Fun fact I Love Dash Mom</p>
 </h3>
 
 ### Languages

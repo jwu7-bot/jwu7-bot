@@ -27,7 +27,6 @@
 ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
@@ -35,7 +34,6 @@
 ### Development Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim)
 
 ### Other Skills
 ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=agile)

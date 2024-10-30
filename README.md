@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm JiaHui</h1>
 
 <h3 align="center">
- <p>🌱 I’m currently learning: Ruby and Android Studio</p>
- <p>⚡ Fun fact I Love Football</p>
+ <p> A passionate Full Stack Developer with a keen interest in creating seamless user experiences and customer journeys. <br>
+     I love building responsive, accessible, and engaging interfaces and optimizing backend systems to ensure performance and scalability.</p>
 </h3>
 
 ### Languages

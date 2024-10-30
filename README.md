@@ -56,6 +56,16 @@
 - 🖥 Created an intuitive MVC-based user interface
 - 🧠 Applied advanced programming techniques and design patterns
 
+### 
+### 📃 Dunder Mifflin Website 
+** Technologies: ** HTML, CSS, JavaScript
+
+- 🖼️	Designed and deployed a mobile-responsive website using HTML, CSS, and JavaScript.
+-	✅ Validated input fields for accuracy, completeness, and adherence to specified formats.
+-	👍 Ensured code quality and adherence to best practices through thorough documentation and peer reviews.
+-	🚀 Successfully launched the website on GitHub using the platform deployment kit.
+
+
 ## 🎯 Future Goals
 
 - 🦀 Become a proficient software developer

@@ -58,7 +58,7 @@
 
 ### 
 ### 📃 Dunder Mifflin Website 
-** Technologies: ** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
 - 🖼️	Designed and deployed a mobile-responsive website using HTML, CSS, and JavaScript.
 -	✅ Validated input fields for accuracy, completeness, and adherence to specified formats.

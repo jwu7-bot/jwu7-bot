@@ -59,7 +59,6 @@
 ## 🎯 Future Goals
 
 - 🦀 Become a proficient software developer
-- ⚡ Master Ruby and Android Studio
 
 ## 💼 Open for Opportunities
 

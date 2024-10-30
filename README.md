@@ -21,6 +21,8 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)

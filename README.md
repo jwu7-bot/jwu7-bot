@@ -20,7 +20,6 @@
 ### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 

@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 
 ### Cloud & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)

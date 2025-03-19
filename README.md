@@ -42,9 +42,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-### Other Skills
-![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=agile)
-
 ## 🏆 Projects
 
 ### 🏫 School System Replica

@@ -20,7 +20,7 @@
 ### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
 ![Rails](https://img.shields.io/badge/-Rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Bulma](https://img.shields.io/badge/-Bulma-%23CC0000.svg?style=flat-square&logo=tailwind&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23CC0000.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 

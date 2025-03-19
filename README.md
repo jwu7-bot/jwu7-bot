@@ -20,9 +20,9 @@
 ### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-%23CC0000.svg?style=flat-square&logo=tailwind&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23CC0000.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Rails](https://img.shields.io/badge/-Rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-%23CC0000.svg?style=flat-square&logo=tailwind&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23CC0000.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 
 ### Databases
